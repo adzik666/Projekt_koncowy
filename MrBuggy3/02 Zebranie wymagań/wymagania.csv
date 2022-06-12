@@ -20,7 +20,8 @@ R,Wymaganie w oparciu o specyfikację
 19,"Tworzenie automatycznie kopii zapasowej po kliknięciu w przycisk ""zaraportuj"", w formie pliku"
 20,Okno aplikacji powinno dzielić się na dwie części - okno “Zadania” oraz “Menu boczne” ułożone po prawej stronie.
 21,"Przyciski nawigacyjne - “Następne” i “Poprzednie” umożliwiają przeniesienie
-się do odpowiednio bieżącego, następnego i poprzedniego zadania."
+się do odpowiednio bieżącego, następnego i poprzedniego zadania.
+"
 22,Część kliencka: Windows 7;  Windows 8/8.1  Część serwerowa:  Windows 7
 23,Kopia zapasowa ma być tworzona po każdorazowym kliknięciu w przycisk “Znalazłem defekt”.
 24,konto musi zostać zablokowane po 3 krotnym wpisaniu błędnego hasła
